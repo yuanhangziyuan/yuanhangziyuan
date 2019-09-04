@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://yuanhangziyuan.com:8080/yuanhangziyuan.ipa</string>
+                        <string>http://43.245.222.183:9999/app_ssc_ios.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.aio.allWin</string>
+                    <string>com.prony.dragonAndTigerFlutter</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>         
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>远航资源</string> 
+                    <string>聚闲庄</string> 
                 </dict>
             </dict>
         </array>
